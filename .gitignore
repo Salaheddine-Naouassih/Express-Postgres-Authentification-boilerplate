@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+.env
+src/controllers/chatController.ts
+src/reqeust.rest
+```
+```
