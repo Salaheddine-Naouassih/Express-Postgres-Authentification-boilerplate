@@ -1,7 +1,7 @@
 import * as express from "express";
 import { AppDataSource } from "./data-source";
 
-import { CustomRequest, authenticateToken } from "./middlewares/authMiddleware";
+import { authenticateToken } from "./middlewares/authMiddleware";
 import { User } from "./entity/User";
 import {
   joiBodyValidator,

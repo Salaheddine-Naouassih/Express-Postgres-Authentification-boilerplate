@@ -1,7 +1,6 @@
 {
-  "name": "cardgame",
+  "name": "auth-boilerplate",
   "version": "0.0.1",
-  "description": "Awesome project developed with TypeORM.",
   "type": "commonjs",
   "devDependencies": {
     "@types/bcryptjs": "^2.4.4",
